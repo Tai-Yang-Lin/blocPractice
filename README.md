@@ -5,5 +5,5 @@ Tools • Dart 3.1.4 • DevTools 2.25.0
 
 
 pub_v
-  flutter_bloc: 8.1.2
-  http: 1.1.0
+flutter_bloc: 8.1.2
+http: 1.1.0
